@@ -1,0 +1,1 @@
+alert("Disclamer: This Website and every content is used for Educational purpose only and not triggering any copright laws. Codes are truely unique and not copied from any other site or AI and if you want codes please visit the link given below" )
